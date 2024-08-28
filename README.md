@@ -39,7 +39,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [npm](https://www.npmj
 3. Instale as bibliotecas necessárias:
 
   ```bash
-    npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion @chakra-ui/icons
+    npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion @chakra-ui/icons react-icons
   ```
 # Executando o Projeto
 Para iniciar o servidor de desenvolvimento e visualizar a aplicação em seu navegador, execute o seguinte comando:
